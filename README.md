@@ -1,14 +1,20 @@
 # TrabajoFinal-PSC
 
 Profesor: Daniel J. Feijó
+
 Fecha limite de entraga: 9 de Julio 23:59h 
+
 Fecha de Defensa: 10 de Julio en clase
 
 Alumnos: 
     - Joaquin Sebastian Pugliese
+    
     - Mia Quadrelli
+    
     - Abril Ortega
+    
     - Ailen Mildemberger
+    
 
 -> Cumplimiento con el Enunciado 💥
 
